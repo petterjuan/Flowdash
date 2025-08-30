@@ -1,0 +1,16 @@
+pygithub==2.5.0
+google-generativeai==0.8.3
+python-dotenv==1.0.1
+pydantic==2.10.3
+typer==0.13.1
+rich==13.9.4
+httpx==0.28.1
+tenacity==9.0.0
+
+# Testing dependencies
+pytest==8.3.4
+pytest-asyncio==0.25.0
+pytest-cov==6.0.0
+pytest-mock==3.14.0
+unittest-xml-reporting==3.2.0
+faker==33.1.0

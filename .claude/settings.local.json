@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:docs.flowdash.com)",
+      "Bash(pip install:*)",
+      "Bash(python -m pytest tests/ -v --tb=short -m \"not slow\")"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
